@@ -1,2 +1,2 @@
 # RoCult
-An easy to setup lightweight and decentralized protocol for hosting a Roblox clone.
+An easy to setup lightweight and decentralized protocol that hosts the base of a Roblox clone.
